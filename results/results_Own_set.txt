@@ -1,0 +1,5 @@
+ Service: 10, Food quality: 9, Suggested tip: 20.4%
+ Service: 7, Food quality: 7, Suggested tip: 18.7%
+ Service: 6, Food quality: 4, Suggested tip: 15.9%
+ Service: 3, Food quality: 5, Suggested tip: 13.0%
+ Service: 1, Food quality: 2, Suggested tip: 5.0%

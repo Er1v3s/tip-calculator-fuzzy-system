@@ -1,0 +1,5 @@
+ Service: 10, Food quality: 9, Decor: 10, Location: 8, Price: 10, Suggested tip: 21.7%
+ Service: 7, Food quality: 7, Decor: 9, Location: 5, Price: 8, Suggested tip: 14.7%
+ Service: 6, Food quality: 4, Decor: 5, Location: 5, Price: 5, Suggested tip: 13.3%
+ Service: 3, Food quality: 5, Decor: 4, Location: 2, Price: 1, Suggested tip: 11.3%
+ Service: 1, Food quality: 1, Decor: 1, Location: 2, Price: 1, Suggested tip: 3.5%
